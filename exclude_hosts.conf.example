@@ -1,0 +1,10 @@
+# exclude by hostname
+name=labserver1
+name=test-switch
+
+# exclude phones
+hardware=AVAYA_IPPhone
+hardware=Cisco IP Phone
+
+# exclude specific vendor
+hardware=HP Printer

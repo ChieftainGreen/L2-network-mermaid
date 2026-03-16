@@ -1,0 +1,4 @@
+*.txt
+.env
+exclude_hosts.conf
+exclude_links.conf
